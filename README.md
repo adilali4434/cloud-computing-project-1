@@ -1,28 +1,46 @@
-# Cloud Computing Project 1 — The Global Launch
+# Cloud Computing Project 1
 
-## Objective
-Deploy a static personal portfolio website using cloud storage as required by the DecodeLabs Project 1 task.
+## Project Title
+Static Portfolio Website
 
-## Technology
-- HTML
-- CSS
-- Amazon S3
+## About the Project
+This project is a static portfolio website created as part of the DecodeLabs Cloud Computing internship.
 
-## Project Status
-Website files are prepared. The next step is to upload `index.html` to an Amazon S3 bucket, enable static website hosting, configure public access, and obtain the live website URL.
+The website presents my personal information, education, skills, projects, and contact information using HTML and CSS.
 
-## Files
-- `index.html` — portfolio website
-- `screenshots/` — screenshots to be added during the AWS deployment process
+## Technologies Used
+- HTML5
+- CSS3
+- Cloudflare Pages
+- GitHub
 
-## Live Website
-_To be added after AWS S3 deployment._
+## Project Features
+- Responsive portfolio layout
+- About Me section
+- Education section
+- Skills section
+- Projects section
+- Contact information
+- Publicly accessible live website
 
-## Deployment Steps
-1. Create an S3 bucket.
-2. Upload `index.html`.
-3. Enable Static Website Hosting.
-4. Configure the required public access settings.
-5. Add the bucket policy for public read access.
-6. Test the website endpoint.
-7. Add deployment screenshots to this repository.
+## Deployment
+The static website has been deployed using Cloudflare Pages.
+
+### Live Website
+http://adil-cloud-portfolio.adilali678765.workers.dev
+
+## Project Files
+- `index.html` — Main portfolio webpage
+- `README.md` — Project documentation
+
+## Student
+Adil Ali
+
+BSc Computer Science  
+University of Southern Punjab, Multan
+
+## Internship
+DecodeLabs — Cloud Computing Internship
+
+## Project
+Cloud Computing Project 1
